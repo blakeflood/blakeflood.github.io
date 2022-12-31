@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "General contracting, special contracting, remodeling and renovations, design and build, new construction, design and build"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/door.png"
+      title: "Installing door to improve home heat characteristics"
+      text: "You can improve the insulation of your home and make it more energy efficient. "
       button:
         label: "Learn more"
-        url: "#"
+        url: "/door"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/window.png"
+      title: "Window replacement to improve thermal efficiency"
+      text: "Installing energy-efficient windows can improve the insulation of your home in many ways."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/window"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "/images/insulation.png"
+      title: "Home insulation installation"
+      text: "In general, insulation can last for many years, but it may need to be replaced if it has become damaged or if it is no longer effective at insulating your home."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/insulation"

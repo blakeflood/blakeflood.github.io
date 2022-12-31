@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Start building now!"
   image: "images/services-web-development.png"
   button:
     label: "Let's talk"
-    url: "#"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdQLrs_6yYdZHQBbZXNw-Th4sLCJ2S3Cv-t7W2T-UeJ0KKGGg/formResponse"

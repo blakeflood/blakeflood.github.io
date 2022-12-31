@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Build with confidence from the heavens."
+  text: "Welcome to Angel Construction, a full-service construction company dedicated to delivering high-quality projects on time and within budget. With over 2 years of experience in the industry, our team of skilled professionals has the expertise and knowledge to handle all aspects of your construction project, from design and planning to execution and completion."
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "#services"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdQLrs_6yYdZHQBbZXNw-Th4sLCJ2S3Cv-t7W2T-UeJ0KKGGg/formResponse"
 
