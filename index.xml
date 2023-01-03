@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angel Contracting and Renovations</title>
+    <link>https://angelcontractingandrenovations.ca/</link>
+    <description>Recent content on Angel Contracting and Renovations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://angelcontractingandrenovations.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://angelcontractingandrenovations.ca/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://angelcontractingandrenovations.ca/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://angelcontractingandrenovations.ca/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://angelcontractingandrenovations.ca/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://angelcontractingandrenovations.ca/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://angelcontractingandrenovations.ca/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://angelcontractingandrenovations.ca/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/about/</guid>
+      <description>Our company values Safety: We place a high priority on the safety of our employees and subcontractors, as well as the safety of any occupants of the buildings we are working on.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://angelcontractingandrenovations.ca/services/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/services/</guid>
+      <description>Welcome to Angel Construction, a full-service construction company dedicated to delivering high-quality projects on time and within budget. With over 2 years of experience in the industry, our team of skilled professionals has the expertise and knowledge to handle all aspects of your construction project, from design and planning to execution and completion.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://angelcontractingandrenovations.ca/door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/door/</guid>
+      <description>There are a few ways you can improve insulation with a new door:
+Choose a door with a high R-value: The R-value is a measure of a door&amp;rsquo;s insulation properties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://angelcontractingandrenovations.ca/insulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/insulation/</guid>
+      <description>The frequency with which you should replace the insulation in your home will depend on several factors, including the type of insulation, the condition of the insulation, and the age of the insulation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://angelcontractingandrenovations.ca/rebates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/rebates/</guid>
+      <description>There are several types of rebates available for energy-efficient home renovation projects. Our team will find the most fitting rebates for your project and needs to design the most affordable and quality build.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://angelcontractingandrenovations.ca/window/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angelcontractingandrenovations.ca/window/</guid>
+      <description>Installing energy-efficient windows can improve the insulation of your home in several ways:
+Energy-efficient windows are typically made with multiple layers of glass, which can provide better insulation than single-pane windows.</description>
+    </item>
+    
+  </channel>
+</rss>
