@@ -5,7 +5,7 @@ date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
-Welcome to Angel Construction, a full-service construction company dedicated to delivering high-quality projects on time and within budget. With over 2 years of experience in the industry, our team of skilled professionals has the expertise and knowledge to handle all aspects of your construction project, from design and planning to execution and completion.
+Welcome to Angel Construction, a full-service construction company dedicated to delivering high-quality projects on time and within budget. With over a decade of experience in the industry, our team of skilled professionals has the expertise and knowledge to handle all aspects of your construction project, from design and planning to execution and completion.
 
 Whether you are looking to build a new home, add an addition to your existing property, or undertake a commercial construction project, we have the resources and capabilities to bring your vision to life. Our team is committed to delivering exceptional customer service and using the latest techniques and technologies to ensure the best possible results.
 
