@@ -1,5 +1,5 @@
 baseURL: "https://angelcontractingandrenovations.ca/"
-theme: "up-business-theme"
+theme: "blakeflood.github.io"
 languageCode: "en-us"
 themesDir: "../.."
 title: "Angel Contracting and Renovations"
