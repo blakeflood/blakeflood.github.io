@@ -1,0 +1,69 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Publish github pages",
+			"command": "git subtree push --prefix hugoBasicExample/public origin gh-pages",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Build",
+			"command": "hugo",
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Serve local",
+			"command": "hugo serve",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Preview local",
+			"command": "open http://localhost:1313; hugo serve",
+			"windows": {
+				"command": "start http://localhost:1313 & hugo serve"
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

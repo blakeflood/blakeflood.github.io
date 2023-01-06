@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our main services"
+  text: "General contracting, special contracting, remodeling and renovations, design and build, new construction, design and build"
+  cards:
+    - image: "images/door.png"
+      title: "Installing doors to improve home heat characteristics"
+      text: "You can improve the insulation of your home and make it more energy efficient. "
+      button:
+        label: "Learn more"
+        url: "/door"
+
+    - image: "images/window.png"
+      title: "Window replacement to improve thermal efficiency"
+      text: "Installing energy-efficient windows can improve the insulation of your home in many ways."
+      button:
+        label: "Learn more"
+        url: "/window"
+
+    - image: "/images/insulation.png"
+      title: "Home insulation installation"
+      text: "In general, insulation can last for many years, but it may need to be replaced if it has become damaged or if it is no longer effective at insulating your home."
+      button:
+        label: "Learn more"
+        url: "/insulation"
