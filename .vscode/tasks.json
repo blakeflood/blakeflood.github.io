@@ -103,7 +103,7 @@
 			"label": "Preview local",
 			"command": "open http://localhost:1313; hugo serve",
 			"windows": {
-				"command": "start http://localhost:1313 & hugo serve"
+				"command": "start http://localhost:1313; hugo serve"
 			},
 			"presentation": {
 				"reveal": "always",
