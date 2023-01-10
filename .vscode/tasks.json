@@ -1,0 +1,121 @@
+// Available variables which can be used inside of strings:
+// ${workspaceFolder} the path of the workspace folder that contains the tasks.json file
+// ${workspaceFolderBasename} the name of the workspace folder that contains the tasks.json file without any slashes (/)
+// ${file} the current opened file
+// ${relativeFile} the current opened file relative to the workspace folder containing the file
+// ${fileBasename} the current opened file's basename
+// ${fileBasenameNoExtension} the current opened file's basename without the extension
+// ${fileDirname} the current opened file's dirname
+// ${fileExtname} the current opened file's extension
+// ${cwd} the task runner's current working directory on startup
+// ${lineNumber} the current selected line number in the active file
+{
+	"version": "2.0.0",
+	"windows": {
+        "options": {
+            "shell": {
+                "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "args": [
+                    "-NoProfile",
+                    "-ExecutionPolicy",
+                    "Bypass",
+                    "-Command"
+                ]
+            }
+        }
+    },
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Publish github pages",
+			"command": "git subtree push --prefix hugoBasicExample/public origin gh-pages",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": false
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Publish github pages force push",
+			"command": "git push origin `git subtree split --prefix hugoBasicExample/public gh-pages`:gh-pages --force",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Publish github pages force push (Windows)",
+			"windows": {
+				"command": "git push origin \"$(git subtree split --prefix hugoBasicExample/public gh-pages):gh-pages\" --force",
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Build",
+			"command": "hugo",
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Serve local",
+			"command": "hugo serve",
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": false
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Preview local",
+			"command": "open http://localhost:1313; hugo serve",
+			"windows": {
+				"command": "start http://localhost:1313 & hugo serve"
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "shared"
+			},
+			"options": {
+				"cwd": "${workspaceFolder}/hugoBasicExample"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": false
+			}
+		}
+	]
+}
