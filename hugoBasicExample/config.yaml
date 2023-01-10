@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Angel Contracting and Renovations"
-  description: "General contracting, special contracting, remodeling and renovations, design and build, new construction, design and build."
+  description: "General contracting, special contracting, remodeling and renovations, design and build"
   images: 
     - "images/hero-image.png"
 
