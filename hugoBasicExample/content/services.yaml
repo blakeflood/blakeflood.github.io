@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "General contracting, special contracting, remodeling and renovations, design and build, new construction, design and build"
+  text: "General contracting, special contracting, remodeling and renovations, design and build"
   cards:
     - image: "images/door.png"
       title: "Installing doors to improve home heat characteristics"
