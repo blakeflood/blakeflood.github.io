@@ -25,3 +25,10 @@ content:
       button:
         label: "Learn more"
         url: "/insulation"
+
+    - image: "/images/driveafter2.png"
+      title: "Past Projects"
+      text: "A collection of some of the projects completed by Angel Contracting and Renovations."
+      button:
+        label: "See Gallery"
+        url: "/projects"
