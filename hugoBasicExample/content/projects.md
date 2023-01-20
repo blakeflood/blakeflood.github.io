@@ -6,21 +6,21 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-![](../../static/images/bathroom1.png)
-![](../../static/images/bathroom2.png)
-![](../../static/images/bathroom3.png)
-![](../../static/images/bathroom4.png)
-![](../../static/images/bathroom5.png)
+![article-image](../../static/images/bathroom1.png)
+![article-image](../../static/images/bathroom2.png)
+![article-image](../../static/images/bathroom3.png)
+![article-image](../../static/images/bathroom4.png)
+![article-image](../../static/images/bathroom5.png)
 
-[](../../static/images/bathroomafter.mp4)
+[article-image](../../static/images/bathroomafter.mp4)
 
-![](../../static/images/drivebefore1.png)
-![](../../static/images/drivebefore2.png)
-![](../../static/images/drivebefore3.png)
+![article-image](../../static/images/drivebefore1.png)
+![article-image](../../static/images/drivebefore2.png)
+![article-image](../../static/images/drivebefore3.png)
 
-![](../../static/images/driveafter1.png)
-![](../../static/images/driveafter2.png)
-![](../../static/images/driveafter3.png)
+![article-image](../../static/images/driveafter1.png)
+![article-image](../../static/images/driveafter2.png)
+![article-image](../../static/images/driveafter3.png)
 
 
 
