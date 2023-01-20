@@ -1,5 +1,7 @@
 Installing energy-efficient windows can improve the insulation of your home in several ways:
 
+![article-image](/images/window.jpeg)
+
 Energy-efficient windows are typically made with multiple layers of glass, which can provide better insulation than single-pane windows.
 
 Energy-efficient windows are often coated with a low-emissivity (Low-E) coating, which helps reduce heat loss in the winter and heat gain in the summer.
