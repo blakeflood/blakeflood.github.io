@@ -5,22 +5,22 @@ date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
-
-![article-image](../../static/images/bathroom1.png)
-![article-image](../../static/images/bathroom2.png)
-![article-image](../../static/images/bathroom3.png)
-![article-image](../../static/images/bathroom4.png)
-![article-image](../../static/images/bathroom5.png)
-
-[article-image](../../static/images/bathroomafter.mp4)
-
-![article-image](../../static/images/drivebefore1.png)
-![article-image](../../static/images/drivebefore2.png)
-![article-image](../../static/images/drivebefore3.png)
-
-![article-image](../../static/images/driveafter1.png)
-![article-image](../../static/images/driveafter2.png)
-![article-image](../../static/images/driveafter3.png)
+### Before
+![before-after-images](/images/bathroom1.png)
+![before-after-images](/images/bathroom2.png)
+![before-after-images](/images/bathroom3.png)
+<!--![before-after-images](/images/bathroom4.png)
+![before-after-images](/images/bathroom5.png) //-->
+### After
+[![before-after-images](/images/bathroomafter.png)](/images/bathroomafter.mp4)
+### Before
+![before-after-images](/images/drivebefore1.png)
+![before-after-images](/images/drivebefore2.png)
+![before-after-images](/images/drivebefore3.png)
+### After
+![before-after-images](/images/driveafter1.png)
+![before-after-images](/images/driveafter2.png)
+![before-after-images](/images/driveafter3.png)
 
 
 
